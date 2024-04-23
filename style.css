@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+}
+
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  padding: 40px;
+  justify-items: center;
+  align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.item {
+  width: 100%;
+  height: 100vh;
+}
+
+.tr1{
+    height: 50vh;
+}
+
+td{
+    width: 33%;
+    padding: 10px;
+}
+
+.img3{
+    display:flex;
+    align-items: center;
+}
+.img4{
+    display:flex;
+    align-items: center;
+}
+
+.img4 img{
+    height: 260px;
+    width: 320px;
+}
+
+.img3 img{
+    height: 340px;
+    width: 320px;
+}
+
+#id1{
+    background-image: url(a1661652176ee39da20cbf3f3bf87502.jpg);
+    background-size: cover;
+}
+
+#id2{
+    background-image: url(khin\,l.jpg);
+    background-size:cover;
+}
